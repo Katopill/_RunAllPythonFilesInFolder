@@ -5,7 +5,7 @@ for %%i in (*.py) do (
 		echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		echo %%i
 		echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		start "" /b /wait "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\python.exe" "%%i"
+		start "" /b /wait "C:\Python\python.exe" "%%i"
 	)
 	echo[
 )
