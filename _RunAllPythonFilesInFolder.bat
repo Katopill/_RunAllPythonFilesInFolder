@@ -10,6 +10,6 @@ for %%i in (*.py) do (
 	echo[
 )
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-echo End of program.
+echo End of folder.
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 pause
