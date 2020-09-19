@@ -5,11 +5,11 @@ for %%i in (*.py) do (
 		echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 		echo %%i
 		echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-		start "" /b /wait "C:\Python\python.exe" "%%i"
+		start "" /b /wait "C:\Windows\py.exe" "%%i"
 	)
 	echo[
 )
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-echo End of folder.
+echo End of program.
 echo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 pause
